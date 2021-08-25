@@ -1,0 +1,6 @@
+# dependencies
+yarn add bcrypt express express-async-error jsonwebtoken multer pg reflect-metadata swagger-ui-express tsyringe typeorm uuid
+
+# dev dependencies
+yarn add @types/bcrypt types/express @types/jest @types/jsonwebtoken @types/multer @types/swagger-ui-express @typescript-eslint/eslint-plugin @typescript-eslint/parser -D
+yarn add eslint eslint-plugin-import eslint-plugin-import-helpers eslint-plugin-prettier eslint-config-airbnb-base eslint-config-prettier eslint-import-resolver-typescript jest prettier ts-jest ts-node-dev tsconfig-paths typescript -D
